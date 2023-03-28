@@ -1,0 +1,3 @@
+/Users/alaa/CLionProjects/Zwischentest2.1/cmake-build-debug/CMakeFiles/Zwischentest2_1.dir
+/Users/alaa/CLionProjects/Zwischentest2.1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alaa/CLionProjects/Zwischentest2.1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
